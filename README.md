@@ -2,7 +2,7 @@
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Network+%7C+Devops ;Cloud Engineer+%7C+Knowledge Seeker;Network+Expert;Always+Learning+%7C+Always+Building)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=DevOps+Enthusiast+%7C+Kubernetes;Cloud+Engineer+%7C+Terraform;Network+Expert;Always+Learning+%7C+Always+Building)](https://git.io/typing-svg)
 
 </div>
 
