@@ -10,7 +10,7 @@
 
 ## 🚀 About Me
 
-> *Motivated and detail-oriented Information Technology graduate with a passion for transforming data into actionable insights*
+> *Motivated and detail-oriented Network Engineer with a strong passion for transitioning into DevOps.*
 
 - 🎓 **B.Tech in Information Technology** from K.J. Somaiya Institute of Technology, Mumbai
 - 📍 Based in **Pune, Maharashtra**
